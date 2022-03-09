@@ -18,7 +18,7 @@ https://git-scm.com/download
 - [x] Você quer colocar seu projeto na nuvem
 
 - [x] Você vai pegar um projeto já iniciado, para trabalhar com o time
-- [] Você precisa rsolver um conflito
+- [x] Você precisa resolver um conflito
 
 * `git init` // inicia a linha do tempo]
 * `git add` // adiciona ou atualiza mudanças para irem para linha do tempo
